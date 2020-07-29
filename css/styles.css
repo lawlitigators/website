@@ -10509,3 +10509,7 @@ section#contact form#contactForm :-ms-input-placeholder {
   height: 120px;
   background: url('../assets/img/logo.png') top left no-repeat;
 }
+
+.custom-img{
+  width: 700px
+}
